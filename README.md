@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/shreya-dabhi/Converse">
-    <img src="https://raw.githubusercontent.com/shreya-dabhi/Converse/master/converse_logo.png" width=74.34 height=85>
+    <img src="https://raw.githubusercontent.com/shreya-dabhi/Converse/master/converse_logo.png" width=140 height=120>
   </a>
 
   <h3 align="center">Converse</h3>
